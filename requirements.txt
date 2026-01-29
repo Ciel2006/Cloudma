@@ -4,3 +4,6 @@ pywebview==4.4.1
 screeninfo==0.8.1
 ollama==0.1.8
 deep-translator==1.11.4
+
+# Linux dependencies (install separately with apt)
+# sudo apt install python3-gi python3-gi-cairo gir1.2-gtk-3.0 gir1.2-webkit2-4.0

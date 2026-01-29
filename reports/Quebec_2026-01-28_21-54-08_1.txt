@@ -1,0 +1,60 @@
+Location: Quebec
+Model: deepseek-v3.1:671b-cloud
+Date: 2026-01-28
+Time: 21-54-08
+Report ID: 1
+==================================================
+
+## Weather Prediction for Quebec - Next 7 Days
+
+### Day 1 (2026-01-29):
+- **Condition**: Overcast with light snow showers
+- **Temperature**: -15°C to -8°C
+- **Precipitation**: 60% chance, 0.5-1.5 mm snow
+- **Wind**: 15-25 km/h
+- **Reasoning**: Following recent overcast patterns with cold temperatures, expect continued cloud cover with occasional snow flurries as moisture remains present.
+
+### Day 2 (2026-01-30):
+- **Condition**: Overcast
+- **Temperature**: -18°C to -10°C
+- **Precipitation**: 30% chance, trace amounts possible
+- **Wind**: 10-20 km/h
+- **Reasoning**: High pressure building slightly may reduce precipitation chances but maintain cloud cover as temperatures remain well below freezing.
+
+### Day 3 (2026-01-31):
+- **Condition**: Light snow
+- **Temperature**: -12°C to -5°C
+- **Precipitation**: 70% chance, 2-4 cm snow
+- **Wind**: 20-30 km/h
+- **Reasoning**: A weak low-pressure system may bring more organized snowfall as temperatures moderate slightly from recent extremes.
+
+### Day 4 (2026-02-01):
+- **Condition**: Snow showers
+- **Temperature**: -14°C to -7°C
+- **Precipitation**: 50% chance, 1-3 cm snow
+- **Wind**: 15-25 km/h
+- **Reasoning**: Continued unsettled conditions with periodic snow showers as the system moves through the region.
+
+### Day 5 (2026-02-02):
+- **Condition**: Partly cloudy
+- **Temperature**: -20°C to -12°C
+- **Precipitation**: 20% chance
+- **Wind**: 10-15 km/h
+- **Reasoning**: High pressure returns bringing clearer conditions but also colder temperatures as Arctic air mass re-establishes.
+
+### Day 6 (2026-02-03):
+- **Condition**: Mainly clear
+- **Temperature**: -22°C to -14°C
+- **Precipitation**: 10% chance
+- **Wind**: 5-15 km/h
+- **Reasoning**: Stable high pressure dominates with very cold temperatures characteristic of Quebec winter conditions.
+
+### Day 7 (2026-02-04):
+- **Condition**: Overcast with flurries
+- **Temperature**: -18°C to -9°C
+- **Precipitation**: 40% chance, light snow
+- **Wind**: 15-25 km/h
+- **Reasoning**: Another system approaches, increasing cloud cover and bringing potential light snow as temperatures moderate slightly.
+
+### Summary & Trends:
+The next week shows typical Quebec winter variability with alternating periods of snow and clearer conditions. Expect temperatures to fluctuate between very cold extremes (-22°C) and moderate cold spells (-5°C), with precipitation mainly falling as snow throughout the period.
