@@ -7,19 +7,19 @@
 ## Gallery
 
 ### Main Interface
-![Main Interface]([gallery/main-interface.png](http://cimages.xyz/static/uploads/f6bec67e48364886ac01fbbb38cca9a7_cloudma1.webp))
+![Main Interface](http://cimages.xyz/static/uploads/f6bec67e48364886ac01fbbb38cca9a7_cloudma1.webp)
 *The main Cloudma interface showing the interactive map and current weather display*
 
 ### AI Prediction Window
-![AI Prediction]([gallery/ai-prediction.png](http://cimages.xyz/static/uploads/2519db92f8144d2d8d985480d2b07e6e_cloudma4.webp))
+![AI Prediction](http://cimages.xyz/static/uploads/2519db92f8144d2d8d985480d2b07e6e_cloudma4.webp)
 *AI-generated weather prediction with translation support*
 
 ### Report History
-![Report History]([gallery/report-history.png](http://cimages.xyz/static/uploads/fadbca07c05c413fa65ee2b1cbba621e_cloudma6.webp))
+![Report History](http://cimages.xyz/static/uploads/fadbca07c05c413fa65ee2b1cbba621e_cloudma6.webp)
 *History panel showing saved AI predictions*
 
 ### AI Options Panel
-![AI Options]([gallery/ai-options.png](http://cimages.xyz/static/uploads/f80f33d2a3934f2fb98209916a949d87_cloudma5.webp))
+![AI Options](http://cimages.xyz/static/uploads/f80f33d2a3934f2fb98209916a949d87_cloudma5.webp)
 *Ollama connection settings and model selection*
 
 
@@ -665,4 +665,5 @@ This is an open-source project. Contributions are welcome!
 ---
 
 **Made with ❤️ for the Ollama Contest 2026**
+
 
