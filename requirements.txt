@@ -1,0 +1,6 @@
+Flask==3.0.0
+requests==2.31.0
+pywebview==4.4.1
+screeninfo==0.8.1
+ollama==0.1.8
+deep-translator==1.11.4
