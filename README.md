@@ -7,20 +7,28 @@
 ## Gallery
 
 ### Main Interface
-![Main Interface](http://cimages.xyz/static/uploads/f6bec67e48364886ac01fbbb38cca9a7_cloudma1.webp)
+![Main Interface](https://ibb.co/gMt7rcdF)
 *The main Cloudma interface showing the interactive map and current weather display*
 
 ### AI Prediction Window
-![AI Prediction](http://cimages.xyz/static/uploads/2519db92f8144d2d8d985480d2b07e6e_cloudma4.webp)
+![AI Prediction](https://ibb.co/GvPn7HXx)
 *AI-generated weather prediction with translation support*
 
 ### Report History
-![Report History](http://cimages.xyz/static/uploads/fadbca07c05c413fa65ee2b1cbba621e_cloudma6.webp)
+![Report History](https://ibb.co/JjYfK8g8)
 *History panel showing saved AI predictions*
 
 ### AI Options Panel
-![AI Options](http://cimages.xyz/static/uploads/f80f33d2a3934f2fb98209916a949d87_cloudma5.webp)
+![AI Options](https://ibb.co/sddrmrKW)
 *Ollama connection settings and model selection*
+
+### Dark Theme
+![Dark Theme](https://ibb.co/tpc7FY5T)
+*Professional dark theme with modern styling*
+
+### Multi-Language Support
+![Translation](https://ibb.co/d9GPwQc)
+*AI predictions translated to multiple languages*
 
 
 ## Table of Contents
@@ -665,5 +673,6 @@ This is an open-source project. Contributions are welcome!
 ---
 
 **Made with ❤️ for the Ollama Contest 2026**
+
 
 
