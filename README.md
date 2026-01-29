@@ -7,7 +7,7 @@
 ## Gallery
 
 ### Main Interface
-![Main Interface](https://ibb.co/gMt7rcdF)
+![Main Interface](https://media.discordapp.net/attachments/982480951965794335/1466275019033280532/cloudma1.png?ex=697c2686&is=697ad506&hm=d4336a7cde476864a87052ca893c237c47a674288b3338c5caa420901e32dd04&=&format=webp&quality=lossless&width=1919&height=1160)
 *The main Cloudma interface showing the interactive map and current weather display*
 
 ### AI Prediction Window
@@ -673,6 +673,7 @@ This is an open-source project. Contributions are welcome!
 ---
 
 **Made with ❤️ for the Ollama Contest 2026**
+
 
 
 
