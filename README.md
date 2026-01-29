@@ -667,7 +667,8 @@ This is an open-source project. Contributions are welcome!
 
 ---
 
-**Made with ❤️ for the Ollama Contest 2026**
+**Made with love and uh sweet from my ass for the Ollama gtc Contest 2026**
+
 
 
 
