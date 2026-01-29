@@ -2,7 +2,7 @@
 
 **Cloudma** is an open-source desktop weather application that combines real-time weather data from Open-Meteo with AI-powered weather predictions using Ollama. Built for the Ollama contest, this application demonstrates how local AI models can enhance traditional weather forecasting by analyzing historical patterns and predicting future conditions.
 
-![Cloudma Screenshot](screenshot.png)
+![Cloudma Screenshot]
 
 ## Gallery
 
@@ -11,24 +11,21 @@
 *The main Cloudma interface showing the interactive map and current weather display*
 
 ### AI Prediction Window
-![AI Prediction](https://ibb.co/GvPn7HXx)
+![AI Prediction](https://media.discordapp.net/attachments/982480951965794335/1466275018307670076/cloudma2.png?ex=697c2686&is=697ad506&hm=09fff3907f4ff5fe69d8ff06a7f4bbcca864fa4845a521b0a1b93c5194970f2a&=&format=webp&quality=lossless&width=571&height=208)
 *AI-generated weather prediction with translation support*
 
 ### Report History
-![Report History](https://ibb.co/JjYfK8g8)
+![Report History](https://media.discordapp.net/attachments/982480951965794335/1466275017665810565/cloudma4.png?ex=697c2686&is=697ad506&hm=5d3eaefa272a8d85c1ae86e15bafaa11fe6c3ed44f50709d0235ec63602c4ecc&=&format=webp&quality=lossless&width=535&height=308)
 *History panel showing saved AI predictions*
 
 ### AI Options Panel
-![AI Options](https://ibb.co/sddrmrKW)
+![AI Options](https://media.discordapp.net/attachments/982480951965794335/1466275017300901952/cloudma5.png?ex=697c2686&is=697ad506&hm=68ac23c7743b88bb1188681cfd40fb6d9f08b21c81c7b89aa2da2c86c73c9572&=&format=webp&quality=lossless&width=2434&height=339)
 *Ollama connection settings and model selection*
 
-### Dark Theme
-![Dark Theme](https://ibb.co/tpc7FY5T)
-*Professional dark theme with modern styling*
+### Full rapport
+![Dark Theme](https://media.discordapp.net/attachments/982480951965794335/1466275018022588528/cloudma3.png?ex=697c2686&is=697ad506&hm=1051dec1a526fa1f421f894adb9083dc4c095db639cdcb5a83c974bcc21747da&=&format=webp&quality=lossless&width=1921&height=1159)
+*Full detailled rapport about your selected location*
 
-### Multi-Language Support
-![Translation](https://ibb.co/d9GPwQc)
-*AI predictions translated to multiple languages*
 
 
 ## Table of Contents
@@ -673,6 +670,7 @@ This is an open-source project. Contributions are welcome!
 ---
 
 **Made with ❤️ for the Ollama Contest 2026**
+
 
 
 
