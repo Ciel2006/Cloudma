@@ -26,8 +26,6 @@
 ![Dark Theme](https://media.discordapp.net/attachments/982480951965794335/1466275018022588528/cloudma3.png?ex=697c2686&is=697ad506&hm=1051dec1a526fa1f421f894adb9083dc4c095db639cdcb5a83c974bcc21747da&=&format=webp&quality=lossless&width=1921&height=1159)
 *Full detailled rapport about your selected location*
 
-
-
 ## Table of Contents
 
 - [Features](#features)
@@ -298,7 +296,7 @@ Cloudma/
 **Steps:**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cloudma.git
+git clone https://github.com/Ciel2006/Cloudma.git
 cd cloudma
 
 # Install dependencies
@@ -670,6 +668,8 @@ This is an open-source project. Contributions are welcome!
 ---
 
 **Made with ❤️ for the Ollama Contest 2026**
+
+
 
 
 
