@@ -22,7 +22,7 @@
 ![AI Options](https://media.discordapp.net/attachments/982480951965794335/1466275017300901952/cloudma5.png?ex=697c2686&is=697ad506&hm=68ac23c7743b88bb1188681cfd40fb6d9f08b21c81c7b89aa2da2c86c73c9572&=&format=webp&quality=lossless&width=2434&height=339)
 *Ollama connection settings and model selection*
 
-### Full rapport
+### Full report
 ![Dark Theme](https://media.discordapp.net/attachments/982480951965794335/1466275018022588528/cloudma3.png?ex=697c2686&is=697ad506&hm=1051dec1a526fa1f421f894adb9083dc4c095db639cdcb5a83c974bcc21747da&=&format=webp&quality=lossless&width=1921&height=1159)
 *Full detailled rapport about your selected location*
 
@@ -668,6 +668,7 @@ This is an open-source project. Contributions are welcome!
 ---
 
 **Made with love and uh sweet from my ass for the Ollama gtc Contest 2026**
+
 
 
 

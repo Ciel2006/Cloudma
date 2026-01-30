@@ -1,5 +1,5 @@
 {
-  "ollama_url": "",
+  "ollama_url": "http://10.0.0.121:11434/",
   "ollama_api_key": "",
-  "last_model": ""
+  "last_model": "nemotron-3-nano:30b-cloud"
 }

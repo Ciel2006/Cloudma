@@ -703,15 +703,6 @@ main {
     display: none;
 }
 
-.ai-popup.maximized {
-    top: 0;
-    left: 0;
-    transform: none;
-    width: 100vw !important;
-    height: 100vh !important;
-    border-radius: 0;
-}
-
 .ai-popup-header {
     display: flex;
     justify-content: space-between;

@@ -41,7 +41,7 @@ ENV/
 Thumbs.db
 
 # Application specific - keep these in repo for now
-# cloudma_config.json
+cloudma_config.json
 # cloudma_reports.json
 # reports/
 

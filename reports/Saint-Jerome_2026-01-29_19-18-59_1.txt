@@ -1,0 +1,60 @@
+Location: Saint-Jerome
+Model: nemotron-3-nano:30b-cloud
+Date: 2026-01-29
+Time: 19-18-59
+Report ID: 1
+==================================================
+
+## Weather Prediction for Saint-Jerome - Next 7 Days
+
+### Day 1 (Tomorrow):
+- **Condition**: Overcast with light snow  
+- **Temperature**: -13.0°C to -6.5°C  
+- **Precipitation**: 40% chance, 0.8 cm snowfall  
+- **Wind**: 15 km/h from the north  
+- **Reasoning**: Cold air mass maintains sub-zero temps; light snow aligns with weather_code 73 and recent snowfall trends.
+
+### Day 2:
+- **Condition**: Partly cloudy  
+- **Temperature**: -11.0°C to -4.0°C  
+- **Precipitation**: 20% chance, trace amounts  
+- **Wind**: 12 km/h, variable direction  
+- **Reasoning**: Clearing trend post-snow; lower wind and precipitation as high pressure builds slightly.
+
+### Day 3:
+- **Condition**: Overcast  
+- **Temperature**: -9.5°C to -2.5°C  
+- **Precipitation**: 60% chance, 2.5 mm rain/snow mix  
+- **Wind**: 18 km/h, increasing from east  
+- **Reasoning**: Moisture influx ahead of system; mix precipitation likely due to marginal temps and weather_code 73 persistence.
+
+### Day 4:
+- **Condition**: Snow  
+- **Temperature**: -16.0°C to -10.0°C  
+- **Precipitation**: 80% chance, 5–7 cm snowfall  
+- **Wind**: 20 km/h, gusty from northwest  
+- **Reasoning**: Stronger system moves in; colder air returns with higher snowfall potential and wind intensification.
+
+### Day 5:
+- **Condition**: Overcast, clearing by evening  
+- **Temperature**: -14.0°C to -7.0°C  
+- **Precipitation**: 30% chance, early flurries then dry  
+- **Wind**: 16 km/h, easing overnight  
+- **Reasoning**: Lingering moisture clears as air stabilizes; colder core remains but improving conditions late.
+
+### Day 6:
+- **Condition**: Mostly clear  
+- **Temperature**: -12.0°C to -3.5°C  
+- **Precipitation**: 10% chance, isolated light snow  
+- **Wind**: 10 km/h, light and variable  
+- **Reasoning**: High pressure dominates; cold but dry conditions with minimal disturbance and low storm risk.
+
+### Day 7:
+- **Condition**: Partly sunny  
+- **Temperature**: -8.0°C to 0.5°C  
+- **Precipitation**: 15% chance, brief flurries  
+- **Wind**: 14 km/h, southerly influence  
+- **Reasoning**: Warm air advection begins; slight warming trend with increased sunshine and minor precipitation risk.
+
+### Summary & Trends:
+A cold, snowy pattern dominates early in the week with increasing storm intensity mid-week, followed by gradual moderation and clearing. Temperatures remain below seasonal norms but show a steady upward trend, suggesting a transition toward more stable, less severe winter conditions by the weekend. Wind and moisture dynamics reflect an evolving air mass pattern moving from stagnant to mildly zonal flow.

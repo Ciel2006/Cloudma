@@ -705,7 +705,6 @@ async function predictWeather() {
 let popupState = {
     isDragging: false,
     isMinimized: false,
-    isMaximized: false,
     startX: 0,
     startY: 0,
     initialLeft: 0,
@@ -721,7 +720,6 @@ function initPopupWindow() {
     const header = document.getElementById('ai-popup-header');
     const closeBtn = document.getElementById('ai-popup-close');
     const minimizeBtn = document.getElementById('ai-popup-minimize');
-    const maximizeBtn = document.getElementById('ai-popup-maximize');
     const saveBtn = document.getElementById('ai-popup-save');
     const translateBtn = document.getElementById('ai-translate-btn');
     const languageSelect = document.getElementById('ai-language');
@@ -867,8 +865,6 @@ function initPopupWindow() {
     
     // Drag functionality
     header.addEventListener('mousedown', (e) => {
-        if (popupState.isMaximized) return;
-        
         popupState.isDragging = true;
         popupState.startX = e.clientX;
         popupState.startY = e.clientY;
@@ -902,8 +898,7 @@ function initPopupWindow() {
     closeBtn.addEventListener('click', () => {
         popup.classList.add('hidden');
         popupState.isMinimized = false;
-        popupState.isMaximized = false;
-        popup.classList.remove('minimized', 'maximized');
+        popup.classList.remove('minimized');
     });
     
     // Minimize button
@@ -911,26 +906,8 @@ function initPopupWindow() {
         popupState.isMinimized = !popupState.isMinimized;
         if (popupState.isMinimized) {
             popup.classList.add('minimized');
-            popupState.isMaximized = false;
-            popup.classList.remove('maximized');
         } else {
             popup.classList.remove('minimized');
-        }
-    });
-    
-    // Maximize button
-    maximizeBtn.addEventListener('click', () => {
-        popupState.isMaximized = !popupState.isMaximized;
-        if (popupState.isMaximized) {
-            popup.classList.add('maximized');
-            popupState.isMinimized = false;
-            popup.classList.remove('minimized');
-        } else {
-            popup.classList.remove('maximized');
-            // Reset to center
-            popup.style.left = '50%';
-            popup.style.top = '50%';
-            popup.style.transform = 'translate(-50%, -50%)';
         }
     });
 }
@@ -971,8 +948,7 @@ function displayAIPrediction(data) {
     // Show popup
     popup.classList.remove('hidden');
     popupState.isMinimized = false;
-    popupState.isMaximized = false;
-    popup.classList.remove('minimized', 'maximized');
+    popup.classList.remove('minimized');
     
     // Reset position to center if not already positioned
     if (!popup.style.left || popup.style.left === '50%') {
@@ -1206,6 +1182,14 @@ function viewReport(report) {
     const popup = document.getElementById('ai-prediction-popup');
     const contentDiv = document.getElementById('ai-prediction-content');
     const modelTag = document.getElementById('ai-model-used');
+    const aiSection = document.getElementById('ai-section');
+    
+    // Store current prediction data for save functionality
+    currentPredictionData = {
+        location: report.location,
+        model: report.model,
+        prediction: report.prediction
+    };
     
     // Store original text
     originalPredictionText = report.prediction;
@@ -1227,11 +1211,13 @@ function viewReport(report) {
     contentDiv.innerHTML = `<p>${formattedContent}</p>`;
     modelTag.textContent = report.model;
     
-    // Show popup
+    // Show AI section and popup
+    if (aiSection) {
+        aiSection.classList.remove('hidden');
+    }
     popup.classList.remove('hidden');
     popupState.isMinimized = false;
-    popupState.isMaximized = false;
-    popup.classList.remove('minimized', 'maximized');
+    popup.classList.remove('minimized');
     
     // Reset position
     popup.style.left = '50%';
